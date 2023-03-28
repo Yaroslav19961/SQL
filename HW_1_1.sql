@@ -8,7 +8,7 @@ CREATE TABLE public.students (
 	CONSTRAINT students_pkey PRIMARY KEY (id)
 );
 
--- 1. Вывести все поля и все строки.
+--Вывести все поля и все строки.
 select * from students;
 
 --Вывести всех студентов в таблице
